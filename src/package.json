@@ -1,0 +1,14 @@
+{
+  "name": "Emotion",
+  "version": "1.0.0",
+  "description": "emotion example.",
+  "keywords": [],
+  "homepage": "https://codesandbox.io/s/pk1qjqpw67",
+  "main": "index.js",
+  "dependencies": {
+    "@emotion/core": "10.0.21",
+    "@emotion/styled": "10.0.17",
+    "react": "16.10.2",
+    "react-dom": "16.10.2"
+  }
+}
